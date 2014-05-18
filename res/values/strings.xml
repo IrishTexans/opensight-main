@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">OpenSight</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="error_configuration">Please configure your serial port first.</string>
+    <string name="error_security">You do not have read/write permission to the serial
+        port.</string>
+    <string name="error_unknown">The serial port can not be opened for an unknown
+        reason.</string>
+    <string name="title_activity_scan">ScanActivity</string>
+    <string name="title_activity_analyze_activitiy">AnalyzeActivitiy</string>
+    <string name="info_message">Above is a video generated while the eye was being tested. Use this for diagnostics purposes.</string>
+    <string name="mainInfoMessage">Welcome to OpenSight, a mobile application for eye diagnostics. Please select the test you would like to perform. Visual Test allows access to the LED and the eye camera, allowing videotaping of the eye exam. The Eye Chart tests is your standard vision test, and will be used to diagnose refractive errors.</string>
+
+</resources>

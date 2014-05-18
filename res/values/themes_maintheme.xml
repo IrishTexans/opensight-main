@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Generated with http://android-holo-colors.com -->
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+  <style name="MainTheme" parent="android:Theme.Holo.Light">
+
+    <item name="android:editTextStyle">@style/EditTextMainTheme</item>
+
+    <item name="android:checkboxStyle">@style/CheckBoxMainTheme</item>
+
+    <item name="android:radioButtonStyle">@style/RadioButtonMainTheme</item>
+
+    <item name="android:buttonStyle">@style/ButtonMainTheme</item>
+
+    <item name="android:imageButtonStyle">@style/ImageButtonMainTheme</item>
+
+    <item name="android:spinnerStyle">@style/SpinnerMainTheme</item>
+
+    <item name="android:dropDownSpinnerStyle">@style/SpinnerMainTheme.DropDown</item>
+
+    <item name="android:spinnerDropDownItemStyle">@style/SpinnerDropDownItemMainTheme</item>
+
+    <item name="android:progressBarStyleHorizontal">@style/ProgressBarMainTheme</item>
+
+    <item name="android:seekBarStyle">@style/SeekBarMainTheme</item>
+
+    <item name="android:buttonStyleToggle">@style/ToggleMainTheme</item>
+
+    <item name="android:listViewStyle">@style/ListViewMainTheme</item>
+
+    <item name="android:listViewWhiteStyle">@style/ListViewMainTheme.White</item>
+
+    <item name="android:spinnerItemStyle">@style/SpinnerItemMainTheme</item>
+
+  </style>
+
+</resources>
